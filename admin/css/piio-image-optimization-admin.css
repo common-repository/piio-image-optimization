@@ -1,0 +1,23 @@
+/**
+* All of the CSS for your admin-specific functionality should be
+* included in this file.
+*/
+.wrap img, .wrap h2{
+    vertical-align: middle;
+}
+.text-piio{
+    color: #0e4de3;
+    font-weight: bold;
+}
+.piio-notice p{
+    /* font-size: 15px; */
+}
+.piio-notice a{
+    font-weight: bold;
+}
+.piio-error {
+    color: #dc3545;
+    padding-left: 10px;
+    vertical-align: middle;
+    display: none;
+}
